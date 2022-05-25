@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogie/static/css/main.9c7f465f.css",
+    "main.js": "/blogie/static/js/main.27f887f1.js",
+    "index.html": "/blogie/index.html",
+    "main.9c7f465f.css.map": "/blogie/static/css/main.9c7f465f.css.map",
+    "main.27f887f1.js.map": "/blogie/static/js/main.27f887f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c7f465f.css",
+    "static/js/main.27f887f1.js"
+  ]
+}
